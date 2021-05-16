@@ -19,7 +19,6 @@ class Metodo{
         return self::mandarColor($tipoColor);
 
     }
-
 }
 
 
